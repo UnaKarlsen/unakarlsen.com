@@ -1,11 +1,19 @@
+---
+title: "About"
+
+menu:
+  main:
+    weight: 10
+---
+
 # Una Alexia Karlsen
 
-# Titles/Descriptors
+## Titles/Descriptors
 - Systems Administrator
 - Devops Engineer
 - Geek
 - Ms SA Leather 2017/2018
-- Journyman of some
+- Journeyman of some
 - Autodidact
 - Maker
 - Queer
@@ -13,14 +21,13 @@
 - Haver of too many expensive hobbies
 - Amateur Radio Operator - ZS1UNA
 
-# Aspiring to Titles
+## Aspiring to Titles
 - Professional Hacker
 - Professional Deviant
 - R&D Engineer
 - Technology Advocate
-- 
 
-# Interests
+## Interests
 - Linux
 - Open Source Software/Hardware
 - Programming
@@ -46,45 +53,43 @@
 - Safer Sex Practices
 - Human Rights
 - LGBTIQ Rights
-- 
 
-# Quotes
+## Quotes
 - Anything is possible, its just a matter of time and money
 - If you aren't learning, you are dying
 
 
-# Values
+## Values
 - https://en.wikipedia.org/wiki/Nine_Noble_Virtues
 - https://en.wikipedia.org/wiki/DIY_ethic
 
-# Bragging Rights
+## Bragging Rights
 - Communicated with the MIR Space Station(AX25 Packet BBS)
 
-# Thoughts
+## Thoughts
 
-# Ideas
+## Ideas
 
-# Associations
+## Associations
 - Ropey Things - Teacher
 - SA Leather - Ms SA Leather 2017/2018
 
-# Events
-- Europia - Teacher
-
+## Events
+- Uropia - Teacher
 
 # Links
-Github: https://github.com/SmilyBorg
-LinkedIn: https://www.linkedin.com/in/unakarlsen/
-About.me: https://about.me/smilyborg
-Facebook: https://www.facebook.com/unaalexiakarlsen
-Keybase.io: https://keybase.io/smilyborg
-Twitter: https://twitter.com/smilyborg
-Youtube: https://www.youtube.com/user/UnaAlexiaKarlsen
-https://www.instagram.com/smilyborg/
-https://za.pinterest.com/smilyborg/
-GoodReads: https://www.goodreads.com/SmilyBorg
-https://plus.google.com/+UnaKarlsen
-https://hub.docker.com/u/smilyborg/
-https://www.meetup.com/members/49550432/
-https://hackaday.io/SmilyBorg
-https://www.hackerrank.com/unaka
+- Github: https://github.com/SmilyBorg
+- LinkedIn: https://www.linkedin.com/in/unakarlsen/
+- About.me: https://about.me/smilyborg
+- Facebook: https://www.facebook.com/unaalexiakarlsen
+- Keybase.io: https://keybase.io/smilyborg
+- Twitter: https://twitter.com/smilyborg
+- Youtube: https://www.youtube.com/user/UnaAlexiaKarlsen
+- https://www.instagram.com/smilyborg/
+- https://za.pinterest.com/smilyborg/
+- GoodReads: https://www.goodreads.com/SmilyBorg
+- https://plus.google.com/+UnaKarlsen
+- https://hub.docker.com/u/smilyborg/
+- https://www.meetup.com/members/49550432/
+- https://hackaday.io/SmilyBorg
+- https://www.hackerrank.com/unaka
