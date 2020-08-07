@@ -9,6 +9,10 @@ menu:
 # Una Alexia Karlsen
 
 ## Titles/Descriptors
+- Cinematographer
+- Photographer
+- Storyteller
+- Gamer
 - Systems Administrator
 - Devops Engineer
 - Geek
@@ -38,6 +42,7 @@ menu:
 - ESP32
 - Arduino
 - MicroPython/CircuitPython
+- Rust/Rust Embedded
 - Electronics
 - IoT
 - Docker/Containerisation
