@@ -1,6 +1,9 @@
 # Una Alexia Karlsen
 
 # Titles/Descriptors
+- Cinematographer
+- Photographer
+- Storyteller
 - Systems Administrator
 - Devops Engineer
 - Geek
@@ -18,7 +21,7 @@
 - Professional Deviant
 - R&D Engineer
 - Technology Advocate
-- 
+- Drone Operator/Pilot
 
 # Interests
 - Linux
@@ -77,6 +80,7 @@ Github: https://github.com/SmilyBorg
 LinkedIn: https://www.linkedin.com/in/unakarlsen/
 About.me: https://about.me/smilyborg
 Facebook: https://www.facebook.com/unaalexiakarlsen
+Facebook: https://www.facebook.com/UnaKarlsenCreator/
 Keybase.io: https://keybase.io/smilyborg
 Twitter: https://twitter.com/smilyborg
 Youtube: https://www.youtube.com/user/UnaAlexiaKarlsen
@@ -88,3 +92,4 @@ https://hub.docker.com/u/smilyborg/
 https://www.meetup.com/members/49550432/
 https://hackaday.io/SmilyBorg
 https://www.hackerrank.com/unaka
+https://www.twitch.tv/unakarlsencreator

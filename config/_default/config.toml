@@ -1,0 +1,14 @@
+baseURL = "https://unakarlsen.com/"
+languageCode = "en-za"
+title = "Una Karlsen"
+
+theme = "LoveIt"
+
+# whether to use robots.txt
+enableRobotsTXT = true
+# whether to use git commit log
+enableGitInfo = true
+
+# Author Info
+[author]
+  name = "Una Karlsen"

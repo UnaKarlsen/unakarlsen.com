@@ -1,0 +1,52 @@
+# Parameters for the LoveIt theme.
+
+# LoveIt theme version
+version = "0.1.X"
+# public git repo url only then enableGitInfo is true
+gitRepo = "https://github.com/SmilyBorg/unakarlsen.com"
+
+# site default theme ("light", "dark", "auto")
+defaultTheme = "dark"
+
+[header]
+  # desktop header mode ("fixed", "normal", "auto")
+  desktopMode = "fixed"
+  # mobile header mode ("fixed", "normal", "auto")
+  mobileMode = "auto"
+
+[footer]
+  # Site creation time
+  since = 2020
+  # license info (HTML format is allowed)
+  license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+
+  # Home Page Info
+  [home]
+    # Home Page Profile
+    [home.profile]
+      enable = true
+      # Gravatar Email for preferred avatar in home page
+      gravatarEmail = "una@strangeminds.org"
+      # subtitle shown in home page
+      subtitle = "Creative · Maker · Cinematographer · Photographer"
+      # whether to use typeit animation for subtitle
+      typeit = false
+      # whether to show social links
+      social = true
+
+  # Social Info in home page
+  [social]
+    GitHub = "SmilyBorg"
+    Twitter = "SmilyBorg"
+    Instagram = "unakarlsen"
+    Facebook = "UnaKarlsenCreator"
+    Youtubelegacy = "UnaAlexiaKarlsen"
+    Twitch = "unakarlsencreator"
+    Email = "una@strangeminds.org"
+  # Social Share Links in post page
+  [share]
+    enable = true
+    Twitter = true
+    Facebook = true
+    Linkedin = true
+    Pinterest = true
