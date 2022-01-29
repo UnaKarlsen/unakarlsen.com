@@ -3,6 +3,8 @@ languageCode = "en-za"
 title = "Una Karlsen"
 
 theme = "LoveIt"
+#theme = "uBlogger"
+
 
 # whether to use robots.txt
 enableRobotsTXT = true

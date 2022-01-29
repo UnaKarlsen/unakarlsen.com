@@ -52,21 +52,21 @@ defaultTheme = "dark"
   Steam = "SmilyBorg"
   Thingiverse = "SmilyBorg"
   Vimeo = "SmilyBorg"
-  LinkedIn="unakarlsen"
-  dockerhub = "SmilyBorg"
-  discord = "LexiOfBorg#7144"
+  LinkedIn = "unakarlsen"
+  Dockerhub = "SmilyBorg"
+  Discord = "LexiOfBorg#7144"
 
-  [social.Ko-Fi]
+  #[social.Ko-Fi]
     # weight when arranging icons (the greater the weight, the later the icon is positioned)
     # weight = 0
     # your social ID
-    id = "unakarlsencreator"
+    #id = "unakarlsencreator"
     # prefix of your social link
-    prefix = "https://Ko-fi.com/"
+    #prefix = "https://Ko-fi.com/"
     # content hovering on the icon
-    title = "Ko-fi"
-    [social.Kofi.Icon]
-      Class = "svg-social-icon-color icon-ko-fi"
+    #title = "Ko-fi"
+    #[social.Kofi.Icon]
+    #  Class = "svg-social-icon-color icon-ko-fi"
 
   # telegram
   # reddit
@@ -75,7 +75,7 @@ defaultTheme = "dark"
   # udemy
   # bandcamp
 
-  # Gitlab = "SmilyBorg"
+  #Gitlab = "SmilyBorg"
   
 
 
