@@ -1,7 +1,7 @@
 # Parameters for the LoveIt theme.
 
 # LoveIt theme version
-version = "0.1.X"
+version = "0.2.X"
 # public git repo url only then enableGitInfo is true
 gitRepo = "https://github.com/SmilyBorg/unakarlsen.com"
 
@@ -28,7 +28,7 @@ defaultTheme = "dark"
     # Gravatar Email for preferred avatar in home page
     gravatarEmail = "una@unakarlsen.com"
     # subtitle shown in home page
-    subtitle = "Creative · Maker · Cinematographer · Photographer"
+    subtitle = "Tech · Tools · Cameras · Chronic-Illness · Life"
     # whether to use typeit animation for subtitle
     typeit = false
     # whether to show social links
@@ -41,32 +41,55 @@ defaultTheme = "dark"
   Instagram = "unakarlsen"
   Facebook = "UnaKarlsenCreator"
   Youtubelegacy = "UnaAlexiaKarlsen"
-  Twitch = "unakarlsen"
+  #Twitch = "unakarlsen"
   Email = "una@unakarlsen.com"
   Keybase = "SmilyBorg"
-  Pinterest = "SmilyBorg"
-  Paypal = "unakarlsen"
+  #Pinterest = "SmilyBorg"
+  #Paypal = "unakarlsen"
   Goodreads = "10006011-una"
-  Kickstarter = "SmilyBorg"
-  Patreon = "SmilyBorg"
+  #Kickstarter = "SmilyBorg"
+  #Patreon = "SmilyBorg"
   Steam = "SmilyBorg"
-  Thingiverse = "SmilyBorg"
-  Vimeo = "SmilyBorg"
-  LinkedIn = "unakarlsen"
-  Dockerhub = "SmilyBorg"
+  #Thingiverse = "SmilyBorg"
+  #Vimeo = "SmilyBorg"
+  #LinkedIn = "unakarlsen"
   Discord = "LexiOfBorg#7144"
 
-  #[social.Ko-Fi]
+  #[social.DockerHub]
+  #  # weight when arranging icons (the greater the weight, the later the icon is positioned)
+  #  weight = 10
+  #  # your social ID
+  #  id = "smilyborg"
+  #  # prefix of your social link
+  #  prefix = "https://hub.docker.com/u/"
+  #  # content hovering on the icon
+  #  title = "Docker Hub"
+  #  [social.DockerHub.Icon]
+  #    class= "fab fa-brands fa-docker fa-fw"
+
+  [social.DiscordServer]
     # weight when arranging icons (the greater the weight, the later the icon is positioned)
-    # weight = 0
+    weight = 10
     # your social ID
-    #id = "unakarlsencreator"
+    id = "NMsD5yQ"
     # prefix of your social link
-    #prefix = "https://Ko-fi.com/"
+    prefix = "https://discord.com/invite/"
     # content hovering on the icon
-    #title = "Ko-fi"
-    #[social.Kofi.Icon]
-    #  Class = "svg-social-icon-color icon-ko-fi"
+    title = "Ko-fi"
+    [social.DiscordServer.Icon]
+      class= "fab fa-brands fa-discord fa-fw"  
+
+  [social.Ko-fi]
+    # weight when arranging icons (the greater the weight, the later the icon is positioned)
+    weight = 10
+    # your social ID
+    id = "unakarlsencreator"
+    # prefix of your social link
+    prefix = "https://Ko-fi.com/"
+    # content hovering on the icon
+    title = "Ko-fi"
+    [social.Ko-fi.Icon]
+      src = "lib/simple-icons/icons/ko-fi.svg"
 
   # telegram
   # reddit
