@@ -176,7 +176,8 @@ enableEmoji = true
         #Thingiverse = "SmilyBorg"
         #Vimeo = "SmilyBorg"
         LinkedIn="unakarlsen"
-        
+        Discord = "LexiOfBorg#7144"
+
         # Gitlab = "SmilyBorg"
   
         # Soundcloud = "SmilyBorg"
@@ -257,13 +258,13 @@ enableEmoji = true
           weight = 10
           [languages.en.params.social.Ko-fi.icon]
             src = "lib/simple-icons/icons/ko-fi.svg"
-        [languages.en.params.social.Discord]
+        [languages.en.params.social.DiscordServer]
           id = "NMsD5yQ"
           prefix = "https://discord.com/invite"
-          title = "Discord"
+          title = "Discord Server"
           weight = 10
-          [languages.en.params.social.Discord.icon]
-            src = "lib/simple-icons/icons/discord.svg"
+          [languages.en.params.social.DiscordServer.icon]
+            class= "fab fa-brands fa-discord fa-fw"
 
 [params]
   # LoveIt theme version
