@@ -76,20 +76,21 @@
 
 
 # Links
-Github: https://github.com/SmilyBorg
-LinkedIn: https://www.linkedin.com/in/unakarlsen/
-About.me: https://about.me/smilyborg
-Facebook: https://www.facebook.com/unaalexiakarlsen
-Facebook: https://www.facebook.com/UnaKarlsenCreator/
-Keybase.io: https://keybase.io/smilyborg
-Twitter: https://twitter.com/smilyborg
-Youtube: https://www.youtube.com/user/UnaAlexiaKarlsen
-https://www.instagram.com/smilyborg/
-https://za.pinterest.com/smilyborg/
-GoodReads: https://www.goodreads.com/SmilyBorg
-https://plus.google.com/+UnaKarlsen
-https://hub.docker.com/u/smilyborg/
-https://www.meetup.com/members/49550432/
-https://hackaday.io/SmilyBorg
-https://www.hackerrank.com/unaka
-https://www.twitch.tv/unakarlsencreator
+- Github: https://github.com/SmilyBorg
+- LinkedIn: https://www.linkedin.com/in/unakarlsen/
+- About.me: https://about.me/smilyborg
+- Facebook: https://www.facebook.com/unaalexiakarlsen
+- Facebook: https://www.facebook.com/UnaKarlsenCreator/
+- Keybase.io: https://keybase.io/smilyborg
+- Twitter: https://twitter.com/smilyborg
+- Youtube: https://www.youtube.com/user/UnaAlexiaKarlsen
+- https://www.instagram.com/smilyborg/
+- https://za.pinterest.com/smilyborg/
+- GoodReads: https://www.goodreads.com/SmilyBorg
+- https://plus.google.com/+UnaKarlsen
+- https://hub.docker.com/u/smilyborg/
+- https://www.meetup.com/members/49550432/
+- https://hackaday.io/SmilyBorg
+- https://www.hackerrank.com/unaka
+- https://www.twitch.tv/unakarlsen
+- https://influence.co/unakarlsen

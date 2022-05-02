@@ -21,6 +21,8 @@ title: "About"
 - Feminist
 - Haver of too many expensive hobbies
 - Amateur Radio Operator - ZS1UNA
+- Punk
+- Hacker
 
 ## Aspiring to Titles
 - Professional Hacker
@@ -62,15 +64,12 @@ title: "About"
 
 
 ## Values
+- https://en.wikipedia.org/wiki/Wiccan_Rede
 - https://en.wikipedia.org/wiki/Nine_Noble_Virtues
 - https://en.wikipedia.org/wiki/DIY_ethic
 
 ## Bragging Rights
 - Communicated with the MIR Space Station(AX25 Packet BBS)
-
-## Thoughts
-
-## Ideas
 
 ## Associations
 - Ropey Things - Teacher
@@ -95,3 +94,5 @@ title: "About"
 - https://www.meetup.com/members/49550432/
 - https://hackaday.io/SmilyBorg
 - https://www.hackerrank.com/unaka
+- https://www.twitch.tv/unakarlsen
+- https://influence.co/unakarlsen
