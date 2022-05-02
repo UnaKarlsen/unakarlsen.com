@@ -67,14 +67,14 @@ enableEmoji = true
         url = "/categories/"
         title = ""
         weight = 3
-      [[languages.en.menu.main]]
-        identifier = "documentation"
-        pre = ""
-        post = ""
-        name = "Docs"
-        url = "/categories/documentation/"
-        title = ""
-        weight = 4
+      #[[languages.en.menu.main]]
+      #  identifier = "documentation"
+      #  pre = ""
+      #  post = ""
+      #  name = "Docs"
+      #  url = "/categories/documentation/"
+      #  title = ""
+      #  weight = 4
       [[languages.en.menu.main]]
         identifier = "about"
         pre = ""
@@ -83,19 +83,19 @@ enableEmoji = true
         url = "/about/"
         title = ""
         weight = 5
-      [[languages.en.menu.main]]
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw'></i>"
-        post = ""
-        name = ""
-        url = "https://github.com/dillonzq/LoveIt"
-        title = "GitHub"
-        weight = 6
+      #[[languages.en.menu.main]]
+      #  identifier = "github"
+      #  pre = "<i class='fab fa-github fa-fw'></i>"
+      #  post = ""
+      #  name = ""
+      #  url = "https://github.com/dillonzq/LoveIt"
+      #  title = "GitHub"
+      #  weight = 6
     [languages.en.params]
       # site description
-      description = "About LoveIt Theme"
+      description = "About Una Karlsen, you friendly Cyborg punk from the Internet"
       # site keywords
-      keywords = ["Theme", "Hugo"]
+      keywords = ["Cyborg", "Punk", "ME/CFS", "chronic illness", "ADHD", "ASD", "DevOps", "Transgender", "" ]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
