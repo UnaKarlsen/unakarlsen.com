@@ -54,6 +54,8 @@ defaultTheme = "dark"
   #Vimeo = "SmilyBorg"
   #LinkedIn = "unakarlsen"
   Discord = "LexiOfBorg#7144"
+  Mastodon = "UnaKarlsen"
+  MastodonPrefix = "https://mastodon.online/"
 
   #[social.DockerHub]
   #  # weight when arranging icons (the greater the weight, the later the icon is positioned)
