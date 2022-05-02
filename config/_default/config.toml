@@ -145,7 +145,7 @@ enableEmoji = true
           # title shown in home page (HTML format is supported)
           title = "Una Karlsen"
           # subtitle shown in home page
-          subtitle = "Creative · Maker · Cinematographer · Photographer"
+          subtitle = "Tech · Tools · Cameras · Chronic-Illness · Life"
           # whether to use typeit animation for subtitle
           typeit = false
           # whether to show social links
@@ -250,7 +250,20 @@ enableEmoji = true
         [languages.en.params.social.Mastodon]
           id = "@UnaKarlsen"
           prefix = "https://mastodon.online/"
-
+        [languages.en.params.social.Ko-fi]
+          id = "unakarlsencreator"
+          prefix = "https://ko-fi.com/"
+          title = "Ko-fi"
+          weight = 10
+          [languages.en.params.social.Ko-fi.icon]
+            src = "lib/simple-icons/icons/ko-fi.svg"
+        [languages.en.params.social.Discord]
+          id = "NMsD5yQ"
+          prefix = "https://discord.com/invite"
+          title = "Discord"
+          weight = 10
+          [languages.en.params.social.Discord.icon]
+            src = "lib/simple-icons/icons/discord.svg"
 
 [params]
   # LoveIt theme version
