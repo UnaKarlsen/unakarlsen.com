@@ -1,7 +1,7 @@
 # Parameters for the LoveIt theme.
 
 # LoveIt theme version
-version = "0.1.X"
+version = "0.2.10"
 # public git repo url only then enableGitInfo is true
 gitRepo = "https://github.com/SmilyBorg/unakarlsen.com"
 
@@ -53,7 +53,9 @@ defaultTheme = "dark"
   Thingiverse = "SmilyBorg"
   Vimeo = "SmilyBorg"
   LinkedIn="unakarlsen"
-  
+  Mastodon = "Unakarlsen"
+  MastodonPrefix = "https://mastodon.online/"
+
   # Gitlab = "SmilyBorg"
   
   # Soundcloud = "SmilyBorg"
@@ -98,8 +100,7 @@ defaultTheme = "dark"
   # Vine = "xxxx"
   # Googlescholar = "xxxx"
   # Researchgate = "xxxx"
-  # Mastodon = "xxxx"
-  # MastodonPrefix = "https://mastodon.technology/"
+
   # Devto = "xxxx"
   # Gitea = "xxxx"
   # XMPP = "xxxx"
