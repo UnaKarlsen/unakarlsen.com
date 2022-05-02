@@ -1,7 +1,9 @@
 # Parameters for the LoveIt theme.
 
 # LoveIt theme version
-version = "0.2.10"
+version = "0.2.x"
+themesDir = "../.."
+
 # public git repo url only then enableGitInfo is true
 gitRepo = "https://github.com/SmilyBorg/unakarlsen.com"
 
@@ -13,12 +15,50 @@ defaultTheme = "dark"
   desktopMode = "fixed"
   # mobile header mode ("fixed", "normal", "auto")
   mobileMode = "auto"
+  [header.title]
+    # URL of the LOGO
+    logo = ""
+    # title name
+    name = "Una Karlsen"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    # whether to use typeit animation for title name
+    typeit = false
 
 [footer]
+  enable = true
+  # Custom content (HTML format is supported)
+  custom = ''
+  # whether to show Hugo and theme info
+  hugo = true
+  # whether to show copyright info
+  copyright = true
+  # whether to show the author
+  author = true
   # Site creation time
   since = 2020
   # license info (HTML format is allowed)
   license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+
+# Section (all posts) page config
+[params.section]
+  # special amount of posts in each section page
+  paginate = 20
+  # date format (month and day)
+  dateFormat = "01-02"
+  # amount of RSS pages
+  rss = 10
+
+# List (category or tag) page config
+[params.list]
+  # special amount of posts in each list page
+  paginate = 20
+  # date format (month and day)
+  dateFormat = "01-02"
+  # amount of RSS pages
+  rss = 10
 
 # Home Page Info
 [home]
@@ -27,12 +67,21 @@ defaultTheme = "dark"
     enable = true
     # Gravatar Email for preferred avatar in home page
     gravatarEmail = "una@unakarlsen.com"
+    # title shown in home page (HTML format is supported)
+    title = ""
     # subtitle shown in home page
     subtitle = "Creative · Maker · Cinematographer · Photographer"
     # whether to use typeit animation for subtitle
     typeit = false
     # whether to show social links
     social = true
+    # disclaimer (HTML format is supported)
+    disclaimer = ""
+
+  [home.posts]
+    enable = true
+    # special amount of posts in each home posts page
+    paginate = 6
 
 # Social Info in home page
 [social]
@@ -53,9 +102,7 @@ defaultTheme = "dark"
   Thingiverse = "SmilyBorg"
   Vimeo = "SmilyBorg"
   LinkedIn="unakarlsen"
-  Mastodon = "Unakarlsen"
-  MastodonPrefix = "https://mastodon.online/"
-
+  
   # Gitlab = "SmilyBorg"
   
   # Soundcloud = "SmilyBorg"
@@ -106,13 +153,32 @@ defaultTheme = "dark"
   # XMPP = "xxxx"
   # Matrix = "xxxx"
   # Bilibili = "xxxx"
+
+  [social.Mastodon]
+    id = "@Unakarlsen"
+    Prefix = "https://mastodon.online/"
+
+
 # Social Share Links in post page
 [share]
-  enable = true
+  enable = false
   Twitter = true
   Facebook = true
-  Linkedin = true
-  Pinterest = true
+  
+[params.page.comment]
+  enable = true
+  # Disqus comment config (https://disqus.com/)
+  [params.page.comment.disqus]
+    enable = false
+    # Disqus shortname to use Disqus in posts
+    shortname = ""
+    # Gitalk comment config (https://github.com/gitalk/gitalk)
+  [params.page.comment.gitalk]
+    enable = false
+    owner = ""
+    repo = ""
+    clientId = ""
+    clientSecret = ""
 
 [math]
   enable = true
@@ -129,29 +195,52 @@ defaultTheme = "dark"
 
 
 # site verification code for Google/Bing/Yandex/Pinterest/Baidu
-[params.verification]
+[verification]
   google = ""
   bing = ""
   yandex = ""
   pinterest = ""
   baidu = ""
 
+ # Analytics config
+ [analytics]
+  enable = false
+  # Google Analytics
+  [analytics.google]
+    id = ""
+    # whether to anonymize IP
+    anonymizeIP = true
+  # Fathom Analytics
+  [analytics.fathom]
+    id = ""
+    # server url for your tracker if you're self hosting
+    server = ""
+
+  # Cookie consent config
+  [cookieconsent]
+    enable = false
+    # text strings used for Cookie consent banner
+    [cookieconsent.content]
+      message = ""
+      dismiss = ""
+      link = ""
+
 # Publisher Info just for SEO
-[params.publisher]
+[publisher]
   name = "xxxx"
-  [params.publisher.logo]
+  [publisher.logo]
     url = "logo.png"
     width = 127
     height = 40
 
 # Website Log Info just for SEO
-[params.logo]
+[logo]
   url = "logo.png"
   width = 127
   height = 40
 
 # Website Image Info just for SEO
-[params.image]
+[image]
   url = "cover.png"
   width = 800
   height = 600

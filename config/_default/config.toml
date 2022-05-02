@@ -12,3 +12,5 @@ enableGitInfo = true
 # Author Info
 [author]
   name = "Una Karlsen"
+  email = "una@unakarlsen.com"
+  
