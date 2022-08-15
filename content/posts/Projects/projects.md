@@ -8,47 +8,47 @@ tags:
 ---
 # Projects
 
-## Home Lab
-- Lakeside Network 1.1
-- Mikrotik
-- NAS
-- CloudFlare DNS
-- CloudFlare Tunnels
-- Time Server
-- IPv6
-- Games Server
-- Home Automation Server
-- PXE Boot Server
-- Google Workspaces
+## [Home Lab](Home Lab/Home Lab.md)
+- [Lakeside Network 1.1] - Operational
+- [Mikrotik] - Operational
+- [NAS] - Operational
+- [CloudFlare DNS] - In Progress
+- [CloudFlare Tunnels] - Planning
+- [Time Server] - Planning
+- [IPv6] - In Progress
+- [Games Server] - Planning
+- [Home Automation Server] - Planning
+- [PXE Boot Server] - Planning
+- [Google Workspaces] - Operational
 
 ## Electronics
-- 3D Printer
-- Laser Cutter
-- CNC Router
+- 3D Printer - 
+- Laser Cutter - 
+- CNC Router - 
 
 ## Radio
-- Radio Server
-- uBitx
-- WSPR transmitter
-- Satellite stracking station - SatNOGS, TinyGS
-- experimental repeater
+- Radio Server - 
+- [uBitx] - In Progress
+- WSPR transmitter - In Progress
+- Satellite stracking station - SatNOGS, TinyGS - Planning
+- experimental repeater - 
 
 ## Video
-- Timecode generator
-- camera motion system
+- Timecode generator - 
+- camera motion system - 
 
 ## Leatherwork
-- leather baseball cap
-- leather aviator's cap, goggles and mask
-- leather waistcoat
-- leather pouches
-- leather wallet
-- leather card case
+- leather baseball cap - 
+- leather aviator's cap, goggles and mask - 
+- leather waistcoat - 
+- leather pouches - 
+- leather wallet - 
+- leather card case - 
 
 ## Woodwork
-- New bedframe
-- New Desk
+- New bedframe - 
+- New Desk - 
 
 ## Gardening
-- Vegitable Garden
-- Mushroom Lab
+- Vegitable Garden - 
+- Mushroom Lab - 
