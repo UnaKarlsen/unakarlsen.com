@@ -8,7 +8,7 @@ tags:
 ---
 # Projects
 
-## [Home Lab](Home Lab/Home Lab.md)
+## [Home Lab]{{< ref "/projects/Home Lab/Home Lab.md">}}
 - [Lakeside Network 1.1] - Operational
 - [Mikrotik] - Operational
 - [NAS] - Operational
