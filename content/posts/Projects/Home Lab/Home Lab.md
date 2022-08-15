@@ -16,9 +16,13 @@ Within my Home Lab, I have:
 - The Network - comprised of Ethernet switches, routers, wifi access points, cables etc.
 - My Home Gateway Router - a Mikrotik ....
 - A NAS - This is used for storing files but also does double duty as a Docker Container server.
-- Stratum 1 NTP Server - Using GPS for time sync(Planning)
 - CloudFlare DNS - Managed via Terraform
-- IPv6 connectivity - Afrihost over Frogfroot Fibre(in progress)
 - Google Workspaces
+- IPv6 connectivity - Afrihost over Frogfroot Fibre(in progress)
+- CloudFlare Tunnels - for DDos pretection and protection of my homelab from the outside world(planning)
+- Stratum 1 NTP Server - Using GPS for time sync and providing PtP(Planning)
 - PXE Boot server - used for provisioning new hardware and updating existing hardware(Planning)
+- Home Automation - power usage monitoring, temp, humidity, (planning)
+- Radio Server - APRS, WSPR, RBN, WinLink, ADS-B, AIS, FT8, JT65, PSK31, (planning)
+- Game server - Minecraft, Green Hell, etc (planning)
 - 
