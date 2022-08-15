@@ -8,6 +8,7 @@ title: "About"
 ## Titles/Descriptors
 - Cinematographer
 - Photographer
+- Problem solver
 - Storyteller
 - Gamer
 - Systems Administrator
