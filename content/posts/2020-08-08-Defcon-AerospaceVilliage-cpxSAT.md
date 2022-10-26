@@ -11,7 +11,7 @@ tags:
 ---
 One good thing came out of Covid19 and that was that Defcon was run online in 2020 which meant that Pi and I got to attend. 
 
-Since I have a particualr interest in space, satellites and radio, we spent a good portion of the weekend working on the satellite hacking challenge, which we eventually completed. Below are my final commands that were sent to the satellite.
+Since I have a particular interest in space, satellites and radio, we spent a good portion of the weekend working on the satellite hacking challenge, which we eventually completed. Below are my final commands that were sent to the satellite.
 
 ```
 !cmd login unakarlsen password
