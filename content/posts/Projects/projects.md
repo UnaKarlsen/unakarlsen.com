@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2022-08-15T18:00:00+02:00
-draft: false
+draft: true
 catagories:
 - Project
 tags:
