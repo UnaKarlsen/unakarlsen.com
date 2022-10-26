@@ -13,7 +13,8 @@ One good thing came out of Covid19 and that was that Defcon was run online in 20
 
 Since I have a particualr interest in space, satellites and radio, we spent a good portion of the weekend working on the satellite hacking challenge, which we eventually completed. Below are my final commands that were sent to the satellite.
 
-`!cmd login unakarlsen password
+```
+!cmd login unakarlsen password
 !cmd login admin 5p4c3d07c0m
 
 
@@ -32,4 +33,5 @@ Since I have a particualr interest in space, satellites and radio, we spent a go
 !cmd orbit set inclination 180
 !cmd orbit set eccentricity 3
 
-!cmd orbit ignite`
+!cmd orbit ignite
+```
