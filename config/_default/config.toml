@@ -250,7 +250,7 @@ enableEmoji = true
         RSS = true
         [languages.en.params.social.Mastodon]
           id = "@UnaKarlsen"
-          prefix = "https://mastodon.online/"
+          prefix = "https://tech.lgbt/"
         [languages.en.params.social.Ko-fi]
           id = "unakarlsencreator"
           prefix = "https://ko-fi.com/"
