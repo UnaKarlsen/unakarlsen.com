@@ -159,7 +159,7 @@ enableEmoji = true
           paginate = 6
       # Social config in home page
       [languages.en.params.social]
-        GitHub = "SmilyBorg"
+        GitHub = "UnaKarlsen"
         Twitter = "SmilyBorg"
         Instagram = "unakarlsen"
         #Facebook = "UnaKarlsenCreator"
