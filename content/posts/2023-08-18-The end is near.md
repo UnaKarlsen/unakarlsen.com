@@ -43,9 +43,9 @@ I ask that no one try to change my mind or ply me with religious or spiritual te
 What I would like is for people to share happy memories, photographs, videos, of our time together. If you have suggestions of movies to watch before you die, please send them my way. If you live in Cape Town or will be traveling to Cape town before the end of the year and would like to visit me, please give me or Pi a shout. I'm also available for the occasional video chat. I'm hoping to have a group get together, probably toward the end of this year as a kind of wake/goodbye. Hopefully before I degrade too much to enjoy everyone's company.
 
 
-https://pegasos-association.com/
-https://dignitysouthafrica.org/
-https://me-pedia.org/wiki/Welcome_to_MEpedia
-Unrest Documentary - https://youtu.be/XOpyLTyVxco
+https://pegasos-association.com/<p>
+https://dignitysouthafrica.org/<p>
+https://me-pedia.org/wiki/Welcome_to_MEpedia<p>
+Unrest Documentary - https://youtu.be/XOpyLTyVxco<p>
 
 Una 
