@@ -1,6 +1,6 @@
 ---
 title: "The end is near"
-date: 202e-08-18T13:33:00+02:00
+date: 2023-08-18T13:33:00+02:00
 draft: false
 catagories:
 - Journal
